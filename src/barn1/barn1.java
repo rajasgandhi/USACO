@@ -1,4 +1,4 @@
-package barn1;
+package src.barn1;
 
 /*
 ID: rajasmg1

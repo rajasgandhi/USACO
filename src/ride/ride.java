@@ -1,4 +1,4 @@
-package ride;
+package src.ride;
 /*
 		ID: rajasmg1
 		LANG: JAVA

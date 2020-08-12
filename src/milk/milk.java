@@ -1,4 +1,4 @@
-package milk;
+package src.milk;
 
 /*
 ID: rajasmg1

@@ -1,4 +1,4 @@
-package milk2;
+package src.milk2;
 /*
 ID: rajasmg1
 LANG: JAVA

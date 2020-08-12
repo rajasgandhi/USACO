@@ -1,4 +1,4 @@
-package friday;
+package src.friday;
 /*
 		ID: rajasmg1
 		LANG: JAVA

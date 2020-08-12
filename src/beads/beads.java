@@ -1,4 +1,4 @@
-package beads;
+package src.beads;
 /*
 ID: rajasmg1
 LANG: JAVA

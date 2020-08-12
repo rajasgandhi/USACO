@@ -1,4 +1,4 @@
-package palsquare;
+package src.palsquare;
 
 /*
 TASK: palsquare

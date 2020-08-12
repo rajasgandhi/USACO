@@ -1,4 +1,4 @@
-package dualpal;
+package src.dualpal;
 
 import java.io.*;
 import java.util.*;

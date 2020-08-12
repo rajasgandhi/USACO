@@ -1,4 +1,4 @@
-package gift1;
+package src.gift1;
 /*
 		ID: rajasmg1
 		LANG: JAVA
