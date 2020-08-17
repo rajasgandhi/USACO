@@ -4,7 +4,6 @@ package src.ride;
 		LANG: JAVA
 		TASK: ride
 		*/
-import java.util.*;
 import java.io.*;
 
 public class ride {
@@ -14,6 +13,7 @@ public class ride {
 		String group = in.readLine();
 		PrintWriter out = new PrintWriter(new BufferedWriter(new FileWriter("ride.out")));
 		out.println(getNumber(comet)%47 == getNumber(group)%47 ? "GO" : "STAY");
+		in.close();
 		out.close();
 	}
 

@@ -4,7 +4,6 @@ package src.friday;
 		LANG: JAVA
 		TASK: friday
 		*/
-import java.util.*;
 import java.io.*;
 
 public class friday {
@@ -41,6 +40,7 @@ public class friday {
         out.print(' ');
         out.print(arr[4]);
         out.println();
+        in.close();
         out.close();
     }
     public static boolean isLeap(int year) {

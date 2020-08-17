@@ -17,7 +17,7 @@ class milk {
 		int weNeed = Integer.parseInt(firstNums.substring(0,firstNums.indexOf(" ")));
 		int farmers = Integer.parseInt(firstNums.substring(firstNums.indexOf(" ") + 1));
 		int[][] priceamt = new int[farmers][2];
-		int[] amt = new int[farmers];
+		//int[] amt = new int[farmers];
 		for (int farmNum = 0; farmNum < farmers; farmNum++) {
 			firstNums = in.readLine();
 			priceamt[farmNum][0] = Integer.parseInt(firstNums.substring(0,firstNums.indexOf(" ")));
@@ -43,6 +43,7 @@ class milk {
 			index++;
 		}
 		out.println(answer);
+		in.close();
 		out.close();	
 		System.exit(0);
 	}

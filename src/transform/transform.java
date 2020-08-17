@@ -11,7 +11,7 @@ import java.util.*;
 public class transform {
 
 	public static void main(String[] args) throws IOException{
-		// TODO Auto-generated method stub
+		// 
 		Scanner in = new Scanner(new File("transform.in"));
 		PrintWriter out = new PrintWriter(new FileWriter("transform.out", true), true);
 		int N = in.nextInt();

@@ -37,7 +37,8 @@ public class namenum {
 				pw.println(a);
 			}
 		}
-	
+		read.close();
+		br.close();
 		pw.close();
 		System.exit(0);
 		

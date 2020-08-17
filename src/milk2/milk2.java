@@ -10,7 +10,7 @@ import java.util.*;
 public class milk2 {
 
 	public static void main(String[] args) throws IOException{
-		// TODO Auto-generated method stub
+		//
 		BufferedReader br = new BufferedReader(new FileReader("milk2.in"));
         PrintWriter out = new PrintWriter(new BufferedWriter(new FileWriter("milk2.out")));
         int num = Integer.parseInt(br.readLine());

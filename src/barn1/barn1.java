@@ -15,7 +15,7 @@ public class barn1 {
 		PrintWriter out = new PrintWriter(new BufferedWriter(new FileWriter("barn1.out")));
 		//input
 		int M = in.nextInt();
-		int S = in.nextInt();
+		//int S = in.nextInt();
 		int C = in.nextInt();
 		int[] stalls = new int[C];
 		int answer = 0;

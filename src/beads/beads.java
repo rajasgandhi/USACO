@@ -12,7 +12,7 @@ class beads {
     Scanner in = new Scanner(new File("beads.in"));
 	PrintWriter out = new PrintWriter(new FileWriter("beads.out", true),true);
 
-	int n = in.nextInt();
+	//int n = in.nextInt();
 	String input = in.next();
 
 	int result = 0;

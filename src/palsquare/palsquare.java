@@ -12,10 +12,10 @@ import java.util.*;
 public class palsquare {
 
 	public static void main(String[] args) throws IOException{
-		// TODO Auto-generated method stub
+		//
 		Scanner in = new Scanner(new File("palsquare.in"));
 		PrintWriter out = new PrintWriter(new FileWriter("palsquare.out", true), true);
-		Map<Integer, String> outputmap = new HashMap<Integer, String>();
+		//Map<Integer, String> outputmap = new HashMap<Integer, String>();
 		Integer base = in.nextInt();
 		
 		for(int i = 1; i <= 300; i++) {
